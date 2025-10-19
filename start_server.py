@@ -9,4 +9,5 @@ if __name__ == '__main__':
     # Usa la porta dalle variabili d'ambiente (Render usa PORT=10000)
     # Fallback a 5001 per sviluppo locale
     port = int(os.environ.get('PORT', 5001))
+    commit
     app.run(host='0.0.0.0', port=port, debug=True)
