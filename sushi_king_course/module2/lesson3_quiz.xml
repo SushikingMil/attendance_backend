@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Quando sollevi un peso, quale parte del corpo devi piegare?</span></p>
+        <p><span lang="en">When lifting a weight, which part of your body should you bend?</span></p>
+        <p><span lang="zh">提举重物时，应该弯曲身体的哪个部位？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Le ginocchia, mantenendo la schiena dritta.</span><br>
+        <span lang="en">The knees, keeping the back straight.</span><br>
+        <span lang="zh">膝盖，同时保持背部挺直。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">La schiena, mantenendo le gambe dritte.</span><br>
+        <span lang="en">The back, keeping the legs straight.</span><br>
+        <span lang="zh">背部，同时保持双腿伸直。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Le spalle.</span><br>
+        <span lang="en">The shoulders.</span><br>
+        <span lang="zh">肩膀。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">La forza per sollevare un carico deve provenire principalmente da...</span></p>
+        <p><span lang="en">The strength to lift a load should primarily come from...</span></p>
+        <p><span lang="zh">提举货物的力量主要应来自...</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Le gambe.</span><br>
+        <span lang="en">The legs.</span><br>
+        <span lang="zh">腿部。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">La schiena.</span><br>
+        <span lang="en">The back.</span><br>
+        <span lang="zh">背部。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Le braccia.</span><br>
+        <span lang="en">The arms.</span><br>
+        <span lang="zh">手臂。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Come va tenuto un peso durante il trasporto?</span></p>
+        <p><span lang="en">How should a load be held during transport?</span></p>
+        <p><span lang="zh">运输过程中应如何搬运重物？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Vicino al corpo.</span><br>
+        <span lang="en">Close to the body.</span><br>
+        <span lang="zh">靠近身体。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Il più lontano possibile dal corpo.</span><br>
+        <span lang="en">As far from the body as possible.</span><br>
+        <span lang="zh">尽可能远离身体。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Con una mano sola per avere l'altra libera.</span><br>
+        <span lang="en">With one hand to keep the other free.</span><br>
+        <span lang="zh">用一只手，以便另一只手空着。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Prima di sollevare un cartone, cosa dovresti fare?</span></p>
+        <p><span lang="en">Before lifting a box, what should you do?</span></p>
+        <p><span lang="zh">在提举箱子之前，你应该做什么？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Valutare se è troppo pesante e chiedere aiuto se necessario.</span><br>
+        <span lang="en">Assess if it is too heavy and ask for help if necessary.</span><br>
+        <span lang="zh">评估它是否太重，必要时寻求帮助。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Sollevarlo velocemente per finire prima.</span><br>
+        <span lang="en">Lift it quickly to finish sooner.</span><br>
+        <span lang="zh">快速提起来，以便更快完成。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Dare uno strattone per vedere quanto pesa.</span><br>
+        <span lang="en">Jerk it to see how much it weighs.</span><br>
+        <span lang="zh">猛地拉一下，看看它有多重。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Per prevenire il mal di schiena quando lavori al bancone, è importante:</span></p>
+        <p><span lang="en">To prevent back pain when working at the counter, it is important to:</span></p>
+        <p><span lang="zh">为防止在柜台工作时背痛，重要的是：</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Mantenere la schiena dritta ed evitare di incurvarsi.</span><br>
+        <span lang="en">Keep your back straight and avoid slouching.</span><br>
+        <span lang="zh">保持背部挺直，避免弯腰。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Lavorare senza mai fare pause.</span><br>
+        <span lang="en">Work without ever taking breaks.</span><br>
+        <span lang="zh">工作时从不休息。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Piegarsi in avanti per vedere meglio.</span><br>
+        <span lang="en">Lean forward to see better.</span><br>
+        <span lang="zh">向前倾以便看得更清楚。</span>
+      ]]></text>
+    </answer>
+  </question>
+</quiz>

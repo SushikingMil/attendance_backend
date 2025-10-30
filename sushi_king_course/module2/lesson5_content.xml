@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+  <type>book</type>
+  <name>
+    <![CDATA[
+    <span lang="it">5. Rischio Incendio e Procedure di Emergenza</span><br>
+    <span lang="en">5. Fire Risk and Emergency Procedures</span><br>
+    <span lang="zh">5. 火灾风险和应急程序</span>
+    ]]>
+  </name>
+  <intro>
+    <![CDATA[
+    <p><em>[Placeholder per video su come usare un estintore]</em></p>
+    <p><strong>IT:</strong> Sapere cosa fare in caso di incendio può salvare delle vite. Vediamo le procedure da seguire in Sushi King.</p>
+    <p><strong>EN:</strong> Knowing what to do in case of a fire can save lives. Let's review the procedures to follow at Sushi King.</p>
+    <p><strong>ZH:</strong> 了解在发生火灾时该怎么做可以挽救生命。让我们回顾一下在Sushi King应遵循的程序。</p>
+    ]]>
+  </intro>
+  <chapters>
+    <chapter>
+      <title><![CDATA[<span lang="it">Prevenzione e Allarme</span><br><span lang="en">Prevention and Alarm</span><br><span lang="zh">预防和警报</span>]]></title>
+      <content><![CDATA[
+        <p><strong>IT:</strong> La migliore emergenza è quella che non accade. Non ostruire mai le vie di esodo, le uscite di sicurezza e gli estintori.</p>
+        <p><strong>EN:</strong> The best emergency is one that doesn't happen. Never obstruct escape routes, emergency exits, and fire extinguishers.</p>
+        <p><strong>ZH:</strong> 最好的紧急情况就是不发生。切勿阻塞疏散路线、紧急出口和灭火器。</p>
+        <p><strong>IT:</strong> In caso di incendio, mantieni la calma e <strong>attiva subito l'allarme</strong>. Avvisa immediatamente il tuo responsabile.</p>
+        <p><strong>EN:</strong> In case of fire, remain calm and <strong>immediately activate the alarm</strong>. Notify your manager immediately.</p>
+        <p><strong>ZH:</strong> 如果发生火灾，请保持冷静并<strong>立即启动警报</strong>。立即通知您的经理。</p>
+      ]]></content>
+    </chapter>
+    <chapter>
+      <title><![CDATA[<span lang="it">Uso degli Estintori</span><br><span lang="en">Use of Fire Extinguishers</span><br><span lang="zh">灭火器的使用</span>]]></title>
+      <content><![CDATA[
+        <p><em>[Placeholder per immagine dei tipi di estintore presenti nel locale]</em></p>
+        <p><strong>IT:</strong> Usa un estintore solo se sei addestrato, se l'incendio è piccolo e se hai una via di fuga sicura alle tue spalle.</p>
+        <p><strong>EN:</strong> Use a fire extinguisher only if you are trained, the fire is small, and you have a safe escape route behind you.</p>
+        <p><strong>ZH:</strong> 只有在您受过培训、火势很小且背后有安全疏散路线的情况下，才可使用灭火器。</p>
+      ]]></content>
+    </chapter>
+    <chapter>
+      <title><![CDATA[<span lang="it">Evacuazione</span><br><span lang="en">Evacuation</span><br><span lang="zh">疏散</span>]]></title>
+      <content><![CDATA[
+        <p><em>[Placeholder per la PLANIMETRIA del locale con vie di esodo, uscite, estintori e punto di raccolta evidenziati]</em></p>
+        <table style="width:100%;" border="1">
+          <thead><tr style="background-color:#FFD700; color:#000000;"><th style="padding: 8px;">Italiano 🇮🇹</th><th style="padding: 8px;">English 🇬🇧</th><th style="padding: 8px;">中文 🇨🇳</th></tr></thead>
+          <tbody>
+            <tr><td style="padding: 8px;"><strong>Segui le Vie di Esodo:</strong> Abbandona il locale seguendo i segnali verdi delle vie di esodo.</td><td style="padding: 8px;"><strong>Follow the Escape Routes:</strong> Leave the premises by following the green escape route signs.</td><td style="padding: 8px;"><strong>遵循疏散路线:</strong> 按照绿色的疏散路线标志离开场所。</td></tr>
+            <tr><td style="padding: 8px;"><strong>Non Usare l'Ascensore:</strong> Usa sempre le scale.</td><td style="padding: 8px;"><strong>Do Not Use the Elevator:</strong> Always use the stairs.</td><td style="padding: 8px;"><strong>不要使用电梯:</strong> 始终使用楼梯。</td></tr>
+            <tr><td style="padding: 8px;"><strong>Punto di Raccolta:</strong> Raggiungi il punto di raccolta esterno e attendi istruzioni. Non allontanarti.</td><td style="padding: 8px;"><strong>Assembly Point:</strong> Go to the external assembly point and wait for instructions. Do not leave.</td><td style="padding: 8px;"><strong>集合点:</strong> 前往外部集合点并等待指示。不要离开。</td></tr>
+          </tbody>
+        </table>
+      ]]></content>
+    </chapter>
+  </chapters>
+</activity>

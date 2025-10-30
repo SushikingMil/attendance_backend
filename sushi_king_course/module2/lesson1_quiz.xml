@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Qual è il rischio più comune in una cucina?</span></p>
+        <p><span lang="en">What is the most common risk in a kitchen?</span></p>
+        <p><span lang="zh">厨房中最常见的风险是什么？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Scivolamento su pavimenti bagnati o unti.</span><br>
+        <span lang="en">Slipping on wet or greasy floors.</span><br>
+        <span lang="zh">在湿滑或油腻的地板上滑倒。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Caduta di oggetti dall'alto.</span><br>
+        <span lang="en">Falling objects from above.</span><br>
+        <span lang="zh">物体从高处坠落。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Movimenti ripetitivi.</span><br>
+        <span lang="en">Repetitive movements.</span><br>
+        <span lang="zh">重复性动作。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Il rischio di tagli con coltelli specifici è più alto...</span></p>
+        <p><span lang="en">The risk of cuts from specific knives is highest...</span></p>
+        <p><span lang="zh">使用特定刀具造成割伤的风险最高的地方是...</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Al Sushi Bar.</span><br>
+        <span lang="en">At the Sushi Bar.</span><br>
+        <span lang="zh">在寿司吧。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">In magazzino.</span><br>
+        <span lang="en">In the warehouse.</span><br>
+        <span lang="zh">在仓库里。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">In sala.</span><br>
+        <span lang="en">In the dining area.</span><br>
+        <span lang="zh">在用餐区。</span>
+      ]]></text>
+    </answer>
+  </question>
+    <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">In magazzino, un rischio tipico è...</span></p>
+        <p><span lang="en">In the warehouse, a typical risk is...</span></p>
+        <p><span lang="zh">在仓库中，一个典型的风险是...</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">La caduta di oggetti dalle scaffalature.</span><br>
+        <span lang="en">Falling objects from shelving.</span><br>
+        <span lang="zh">物体从货架上坠落。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Le ustioni da friggitrici.</span><br>
+        <span lang="en">Burns from fryers.</span><br>
+        <span lang="zh">被油炸锅烫伤。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Il contatto con il pubblico.</span><br>
+        <span lang="en">Contact with the public.</span><br>
+        <span lang="zh">与公众接触。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Le ustioni sono un rischio prevalente in quale area?</span></p>
+        <p><span lang="en">Burns are a prevalent risk in which area?</span></p>
+        <p><span lang="zh">烫伤在哪个区域是主要风险？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Cucina</span><br>
+        <span lang="en">Kitchen</span><br>
+        <span lang="zh">厨房</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Sala</span><br>
+        <span lang="en">Dining area</span><br>
+        <span lang="zh">用餐区</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Magazzino</span><br>
+        <span lang="en">Warehouse</span><br>
+        <span lang="zh">仓库</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Il rischio di inciampo è più probabile...</span></p>
+        <p><span lang="en">The risk of tripping is most likely...</span></p>
+        <p><span lang="zh">绊倒的风险最可能发生在...</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">In sala, a causa di ostacoli o gradini.</span><br>
+        <span lang="en">In the dining area, due to obstacles or steps.</span><br>
+        <span lang="zh">在用餐区，由于障碍物或台阶。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Dietro al sushi bar.</span><br>
+        <span lang="en">Behind the sushi bar.</span><br>
+        <span lang="zh">在寿司吧后面。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Davanti ai forni in cucina.</span><br>
+        <span lang="en">In front of the ovens in the kitchen.</span><br>
+        <span lang="zh">在厨房的烤箱前。</span>
+      ]]></text>
+    </answer>
+  </question>
+</quiz>

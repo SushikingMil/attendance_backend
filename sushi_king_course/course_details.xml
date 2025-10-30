@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+  <fullname>Formazione Generale e Specifica sulla Sicurezza – Sushi King Milano</fullname>
+  <shortname>SushiKing-Sicurezza</shortname>
+  <summary>
+    <![CDATA[
+    <p>Corso di formazione per dipendenti di Sushi King Milano, conforme all’Accordo Stato-Regioni 21/12/2011 e s.m.i.</p>
+    <p>Safety training course for Sushi King Milan employees, compliant with the State-Regions Agreement of 21/12/2011 and subsequent amendments.</p>
+    <p>米兰寿司王员工安全培训课程，符合2011年12月21日国家-地区协议及其后续修订。</p>
+    ]]>
+  </summary>
+  <format>topics</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1640995200</startdate> <!-- Placeholder date -->
+  <enddate>0</enddate>
+  <numsections>6</numsections>
+  <maxbytes>0</maxbytes>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang></lang>
+  <theme>boost</theme> <!-- Standard theme, colors will be set within Moodle -->
+</course>

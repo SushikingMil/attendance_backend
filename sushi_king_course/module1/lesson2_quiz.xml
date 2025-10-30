@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>Domanda Datore di Lavoro 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Chi è il Datore di Lavoro in Sushi King?</span></p>
+        <p><span lang="en">Who is the Employer at Sushi King?</span></p>
+        <p><span lang="zh">谁是Sushi King的雇主？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Ging Li</span><br>
+        <span lang="en">Ging Li</span><br>
+        <span lang="zh">Ging Li</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Dott. Roberto Muretti</span><br>
+        <span lang="en">Dr. Roberto Muretti</span><br>
+        <span lang="zh">Roberto Muretti博士</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Sig. Hu Lifeng</span><br>
+        <span lang="en">Mr. Hu Lifeng</span><br>
+        <span lang="zh">胡立峰先生</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Domanda RSPP 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Qual è il ruolo del Dott. Roberto Muretti?</span></p>
+        <p><span lang="en">What is the role of Dr. Roberto Muretti?</span></p>
+        <p><span lang="zh">Roberto Muretti博士的角色是什么？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">RSPP</span><br>
+        <span lang="en">HSPP</span><br>
+        <span lang="zh">RSPP</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Medico Competente</span><br>
+        <span lang="en">Occupational Physician</span><br>
+        <span lang="zh">职业医师</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">RLS</span><br>
+        <span lang="en">WSR</span><br>
+        <span lang="zh">RLS</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Domanda RLS 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Chi rappresenta i lavoratori per la sicurezza?</span></p>
+        <p><span lang="en">Who represents the workers for safety?</span></p>
+        <p><span lang="zh">谁代表工人负责安全？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Sig. Hu Lifeng</span><br>
+        <span lang="en">Mr. Hu Lifeng</span><br>
+        <span lang="zh">胡立峰先生</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Ging Li</span><br>
+        <span lang="en">Ging Li</span><br>
+        <span lang="zh">Ging Li</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Dott. Alessandro Montuori</span><br>
+        <span lang="en">Dr. Alessandro Montuori</span><br>
+        <span lang="zh">Alessandro Montuori博士</span>
+      ]]></text>
+    </answer>
+  </question>
+</quiz>

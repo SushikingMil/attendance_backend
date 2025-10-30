@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+  <type>book</type>
+  <name>
+    <![CDATA[
+    <span lang="it">3. Diritti e Doveri dei Lavoratori e Datori di Lavoro</span><br>
+    <span lang="en">3. Rights and Duties of Workers and Employers</span><br>
+    <span lang="zh">3. 工人和雇主的权利与义务</span>
+    ]]>
+  </name>
+  <intro>
+    <![CDATA[
+    <p><em>[Placeholder per video/animazione introduttiva]</em></p>
+    <p><strong>IT:</strong> La sicurezza è una responsabilità condivisa. Vediamo quali sono i principali diritti e doveri.</p>
+    <p><strong>EN:</strong> Safety is a shared responsibility. Let's see the main rights and duties.</p>
+    <p><strong>ZH:</strong> 安全是共同的责任。让我们看看主要的权利和义务。</p>
+    ]]>
+  </intro>
+  <chapters>
+    <chapter>
+      <title>
+        <![CDATA[
+        <span lang="it">Diritti dei Lavoratori</span><br>
+        <span lang="en">Workers' Rights</span><br>
+        <span lang="zh">工人的权利</span>
+        ]]>
+      </title>
+      <content>
+        <![CDATA[
+        <table style="width:100%; border-collapse: collapse;" border="1">
+          <thead>
+            <tr style="background-color:#FFD700; color:#000000;">
+              <th style="padding: 8px;">Italiano 🇮🇹</th>
+              <th style="padding: 8px;">English 🇬🇧</th>
+              <th style="padding: 8px;">中文 🇨🇳</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="padding: 8px;">Ricevere formazione e informazione sui rischi.</td>
+              <td style="padding: 8px;">To receive training and information on risks.</td>
+              <td style="padding: 8px;">接受有关风险的培训和信息。</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;">Disporre di attrezzature e DPI adeguati.</td>
+              <td style="padding: 8px;">To have adequate equipment and PPE.</td>
+              <td style="padding: 8px;">拥有充足的设备和个人防护装备。</td>
+            </tr>
+             <tr>
+              <td style="padding: 8px;">Sottoporsi a sorveglianza sanitaria.</td>
+              <td style="padding: 8px;">To undergo health surveillance.</td>
+              <td style="padding: 8px;">接受健康监护。</td>
+            </tr>
+          </tbody>
+        </table>
+        ]]>
+      </content>
+    </chapter>
+    <chapter>
+      <title>
+        <![CDATA[
+        <span lang="it">Doveri dei Lavoratori</span><br>
+        <span lang="en">Workers' Duties</span><br>
+        <span lang="zh">工人的义务</span>
+        ]]>
+      </title>
+      <content>
+        <![CDATA[
+        <table style="width:100%; border-collapse: collapse;" border="1">
+          <thead>
+            <tr style="background-color:#FFD700; color:#000000;">
+              <th style="padding: 8px;">Italiano 🇮🇹</th>
+              <th style="padding: 8px;">English 🇬🇧</th>
+              <th style="padding: 8px;">中文 🇨🇳</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="padding: 8px;">Prendersi cura della propria sicurezza e di quella altrui.</td>
+              <td style="padding: 8px;">To take care of one's own safety and that of others.</td>
+              <td style="padding: 8px;">关心自己和他人的安全。</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;">Utilizzare correttamente attrezzature e DPI.</td>
+              <td style="padding: 8px;">To use equipment and PPE correctly.</td>
+              <td style="padding: 8px;">正确使用设备和个人防护装备。</td>
+            </tr>
+             <tr>
+              <td style="padding: 8px;">Segnalare immediatamente qualsiasi pericolo.</td>
+              <td style="padding: 8px;">To report any danger immediately.</td>
+              <td style="padding: 8px;">立即报告任何危险。</td>
+            </tr>
+          </tbody>
+        </table>
+        ]]>
+      </content>
+    </chapter>
+  </chapters>
+</activity>

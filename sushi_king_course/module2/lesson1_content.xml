@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+  <type>book</type>
+  <name>
+    <![CDATA[
+    <span lang="it">1. Rischi negli Ambienti di Lavoro</span><br>
+    <span lang="en">1. Risks in the Work Environments</span><br>
+    <span lang="zh">1. 工作环境中的风险</span>
+    ]]>
+  </name>
+  <intro>
+    <![CDATA[
+    <p><em>[Placeholder per video/illustrazione dell'ambiente di lavoro]</em></p>
+    <p><strong>IT:</strong> Analizziamo i rischi specifici di ogni area del ristorante.</p>
+    <p><strong>EN:</strong> Let's analyze the specific risks of each area of the restaurant.</p>
+    <p><strong>ZH:</strong> 让我们分析餐厅每个区域的具体风险。</p>
+    ]]>
+  </intro>
+  <chapters>
+    <chapter>
+      <title>
+        <![CDATA[
+        <span lang="it">Rischi in Cucina</span><br><span lang="en">Risks in the Kitchen</span><br><span lang="zh">厨房风险</span>
+        ]]>
+      </title>
+      <content>
+        <![CDATA[
+        <p><em>[Placeholder per foto/video della cucina]</em></p>
+        <table style="width:100%;" border="1">
+          <thead><tr style="background-color:#FFD700; color:#000000;"><th style="padding: 8px;">Italiano 🇮🇹</th><th style="padding: 8px;">English 🇬🇧</th><th style="padding: 8px;">中文 🇨🇳</th></tr></thead>
+          <tbody>
+            <tr><td style="padding: 8px;">Scivolamento su pavimenti bagnati o unti.</td><td style="padding: 8px;">Slipping on wet or greasy floors.</td><td style="padding: 8px;">在湿滑或油腻的地板上滑倒。</td></tr>
+            <tr><td style="padding: 8px;">Tagli con coltelli, affettatrici e altri utensili.</td><td style="padding: 8px;">Cuts from knives, slicers, and other tools.</td><td style="padding: 8px;">被刀具、切片机和其他工具割伤。</td></tr>
+            <tr><td style="padding: 8px;">Ustioni da forni, friggitrici e liquidi caldi.</td><td style="padding: 8px;">Burns from ovens, fryers, and hot liquids.</td><td style="padding: 8px;">被烤箱、油炸锅和热液体烫伤。</td></tr>
+            <tr><td style="padding: 8px;">Contatto con superfici o impianti elettrici.</td><td style="padding: 8px;">Contact with electrical surfaces or systems.</td><td style="padding: 8px;">接触电气表面或系统。</td></tr>
+          </tbody>
+        </table>
+        ]]>
+      </content>
+    </chapter>
+    <chapter>
+      <title>
+        <![CDATA[
+        <span lang="it">Rischi al Sushi Bar</span><br><span lang="en">Risks at the Sushi Bar</span><br><span lang="zh">寿司吧风险</span>
+        ]]>
+      </title>
+      <content>
+        <![CDATA[
+        <p><em>[Placeholder per foto/video del sushi bar]</em></p>
+        <table style="width:100%;" border="1">
+          <thead><tr style="background-color:#FFD700; color:#000000;"><th style="padding: 8px;">Italiano 🇮🇹</th><th style="padding: 8px;">English 🇬🇧</th><th style="padding: 8px;">中文 🇨🇳</th></tr></thead>
+          <tbody>
+            <tr><td style="padding: 8px;">Tagli con coltelli specifici per sushi/sashimi.</td><td style="padding: 8px;">Cuts from specific sushi/sashimi knives.</td><td style="padding: 8px;">被寿司/生鱼片专用刀具割伤。</td></tr>
+            <tr><td style="padding: 8px;">Movimenti ripetitivi nella preparazione.</td><td style="padding: 8px;">Repetitive movements during preparation.</td><td style="padding: 8px;">准备过程中的重复性动作。</td></tr>
+            <tr><td style="padding: 8px;">Scivolamento dietro al bancone.</td><td style="padding: 8px;">Slipping behind the counter.</td><td style="padding: 8px;">在柜台后面滑倒。</td></tr>
+          </tbody>
+        </table>
+        ]]>
+      </content>
+    </chapter>
+    <chapter>
+      <title>
+        <![CDATA[
+        <span lang="it">Rischi in Sala e Magazzino</span><br><span lang="en">Risks in the Dining Area and Warehouse</span><br><span lang="zh">用餐区和仓库风险</span>
+        ]]>
+      </title>
+      <content>
+        <![CDATA[
+        <p><em>[Placeholder per foto/video della sala/magazzino]</em></p>
+        <table style="width:100%;" border="1">
+          <thead><tr style="background-color:#FFD700; color:#000000;"><th style="padding: 8px;">Italiano 🇮🇹</th><th style="padding: 8px;">English 🇬🇧</th><th style="padding: 8px;">中文 🇨🇳</th></tr></thead>
+          <tbody>
+            <tr><td style="padding: 8px;">Cadute per inciampo (ostacoli, gradini).</td><td style="padding: 8px;">Tripping hazards (obstacles, steps).</td><td style="padding: 8px;">绊倒危险（障碍物、台阶）。</td></tr>
+            <tr><td style="padding: 8px;">Movimentazione manuale di carichi (cartoni, fusti).</td><td style="padding: 8px;">Manual handling of loads (boxes, barrels).</td><td style="padding: 8px;">手动搬运货物（箱子、桶）。</td></tr>
+            <tr><td style="padding: 8px;">Caduta di oggetti dall'alto (scaffalature).</td><td style="padding: 8px;">Falling objects from above (shelving).</td><td style="padding: 8px;">物体从高处坠落（货架）。</td></tr>
+          </tbody>
+        </table>
+        ]]>
+      </content>
+    </chapter>
+  </chapters>
+</activity>

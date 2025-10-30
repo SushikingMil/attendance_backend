@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+  <type>book</type>
+  <name>
+    <![CDATA[
+    <span lang="it">4. Rischio Chimico: Prodotti e Simboli</span><br>
+    <span lang="en">4. Chemical Risk: Products and Symbols</span><br>
+    <span lang="zh">4. 化学风险：产品和符号</span>
+    ]]>
+  </name>
+  <intro>
+    <![CDATA[
+    <p><em>[Placeholder per video sull'uso sicuro dei prodotti chimici]</em></p>
+    <p><strong>IT:</strong> Usiamo quotidianamente prodotti chimici per la pulizia. È fondamentale conoscerne i pericoli e sapere come proteggersi.</p>
+    <p><strong>EN:</strong> We use chemical products for cleaning daily. It is crucial to know their dangers and how to protect ourselves.</p>
+    <p><strong>ZH:</strong> 我们每天都使用化学产品进行清洁。了解它们的危险以及如何保护自己至关重要。</p>
+    ]]>
+  </intro>
+  <chapters>
+    <chapter>
+      <title><![CDATA[<span lang="it">Scheda di Dati di Sicurezza (SDS)</span><br><span lang="en">Safety Data Sheet (SDS)</span><br><span lang="zh">安全数据表 (SDS)</span>]]></title>
+      <content><![CDATA[
+        <p><strong>IT:</strong> La SDS è un documento obbligatorio per ogni prodotto chimico pericoloso. Contiene tutte le informazioni su come usarlo, conservarlo e smaltirlo in sicurezza.</p>
+        <p><strong>EN:</strong> The SDS is a mandatory document for every hazardous chemical product. It contains all the information on how to use, store, and dispose of it safely.</p>
+        <p><strong>ZH:</strong> SDS 是每种危险化学品的强制性文件。它包含了如何安全使用、储存和处置该产品的所有信息。</p>
+      ]]></content>
+    </chapter>
+    <chapter>
+      <title><![CDATA[<span lang="it">Pittogrammi di Pericolo (CLP)</span><br><span lang="en">Hazard Pictograms (CLP)</span><br><span lang="zh">危险象形图 (CLP)</span>]]></title>
+      <content><![CDATA[
+        <p><em>[Placeholder per un'immagine che mostra i principali pittogrammi CLP: corrosivo, infiammabile, irritante]</em></p>
+        <table style="width:100%;" border="1">
+          <thead><tr style="background-color:#FFD700; color:#000000;"><th style="padding: 8px;">Italiano 🇮🇹</th><th style="padding: 8px;">English 🇬🇧</th><th style="padding: 8px;">中文 🇨🇳</th></tr></thead>
+          <tbody>
+            <tr><td style="padding: 8px;"><strong>Corrosivo:</strong> Può corrodere i metalli e causare gravi ustioni alla pelle e danni agli occhi.</td><td style="padding: 8px;"><strong>Corrosive:</strong> Can corrode metals and cause severe skin burns and eye damage.</td><td style="padding: 8px;"><strong>腐蚀性:</strong> 可腐蚀金属并导致严重的皮肤灼伤和眼睛损伤。</td></tr>
+            <tr><td style="padding: 8px;"><strong>Infiammabile:</strong> Il prodotto può prendere fuoco facilmente.</td><td style="padding: 8px;"><strong>Flammable:</strong> The product can catch fire easily.</td><td style="padding: 8px;"><strong>易燃:</strong> 该产品容易着火。</td></tr>
+            <tr><td style="padding: 8px;"><strong>Irritante / Nocivo:</strong> Può causare irritazione, allergie cutanee, sonnolenza o vertigini.</td><td style="padding: 8px;"><strong>Irritant / Harmful:</strong> May cause irritation, skin allergies, drowsiness or dizziness.</td><td style="padding: 8px;"><strong>刺激性 / 有害:</strong> 可能引起刺激、皮肤过敏、嗜睡或头晕。</td></tr>
+          </tbody>
+        </table>
+      ]]></content>
+    </chapter>
+    <chapter>
+      <title><![CDATA[<span lang="it">Uso dei DPI Corretti</span><br><span lang="en">Use of Correct PPE</span><br><span lang="zh">正确使用个人防护装备</span>]]></title>
+      <content><![CDATA[
+        <p><em>[Placeholder per un'immagine di guanti per prodotti chimici e occhiali di protezione]</em></p>
+        <p><strong>IT:</strong> Quando maneggi prodotti chimici, indossa sempre i DPI indicati sulla SDS o sull'etichetta.</p>
+        <p><strong>EN:</strong> When handling chemical products, always wear the PPE indicated on the SDS or the label.</p>
+        <p><strong>ZH:</strong> 在处理化学产品时，请务必佩戴SDS或标签上注明的个人防护装备。</p>
+        <ul>
+        <li><span lang="it"><strong>Guanti:</strong> Per proteggere le mani dal contatto.</span><br><span lang="en"><strong>Gloves:</strong> To protect hands from contact.</span><br><span lang="zh"><strong>手套:</strong> 保护手部免受接触。</span></li>
+        <li><span lang="it"><strong>Occhiali / Visiera:</strong> Per proteggere gli occhi da schizzi.</span><br><span lang="en"><strong>Goggles / Face shield:</strong> To protect eyes from splashes.</span><br><span lang="zh"><strong>护目镜 / 面罩:</strong> 保护眼睛免受飞溅。</span></li>
+        </ul>
+        <p><strong>IT:</strong> Non mescolare mai prodotti diversi (es. candeggina e ammoniaca), può generare gas tossici!</p>
+        <p><strong>EN:</strong> Never mix different products (e.g., bleach and ammonia), it can generate toxic gases!</p>
+        <p><strong>ZH:</strong> 切勿混合不同的产品（例如漂白剂和氨水），这会产生有毒气体！</p>
+      ]]></content>
+    </chapter>
+  </chapters>
+</activity>

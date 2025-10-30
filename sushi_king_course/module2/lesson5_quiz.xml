@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">In caso di incendio, qual è la prima cosa da fare?</span></p>
+        <p><span lang="en">In case of a fire, what is the first thing to do?</span></p>
+        <p><span lang="zh">如果发生火灾，首先该做什么？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Mantenere la calma e attivare l'allarme.</span><br>
+        <span lang="en">Remain calm and activate the alarm.</span><br>
+        <span lang="zh">保持冷静并启动警报。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Cercare di spegnere il fuoco da soli a tutti i costi.</span><br>
+        <span lang="en">Try to extinguish the fire by yourself at all costs.</span><br>
+        <span lang="zh">不惜一切代价自行灭火。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Tornare al proprio posto per prendere oggetti personali.</span><br>
+        <span lang="en">Go back to your station to get personal belongings.</span><br>
+        <span lang="zh">返回您的岗位取个人物品。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Durante un'evacuazione, è consentito usare l'ascensore?</span></p>
+        <p><span lang="en">During an evacuation, is it permissible to use the elevator?</span></p>
+        <p><span lang="zh">疏散期间是否允许使用电梯？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">No, mai. Si devono usare le scale.</span><br>
+        <span lang="en">No, never. The stairs must be used.</span><br>
+        <span lang="zh">不，绝不可以。必须使用楼梯。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Sì, se non c'è fumo.</span><br>
+        <span lang="en">Yes, if there is no smoke.</span><br>
+        <span lang="zh">是的，如果没有烟雾。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Sì, per fare più in fretta.</span><br>
+        <span lang="en">Yes, to be quicker.</span><br>
+        <span lang="zh">是的，为了更快。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Cos'è il "Punto di Raccolta"?</span></p>
+        <p><span lang="en">What is the "Assembly Point"?</span></p>
+        <p><span lang="zh">什么是“集合点”？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Un luogo sicuro all'esterno dove tutti si devono riunire dopo l'evacuazione.</span><br>
+        <span lang="en">A safe place outside where everyone must gather after the evacuation.</span><br>
+        <span lang="zh">疏散后所有人必须聚集在室外的安全地点。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Il punto dove si trovano gli estintori.</span><br>
+        <span lang="en">The place where the fire extinguishers are located.</span><br>
+        <span lang="zh">灭火器所在的地方。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">L'uscita di emergenza principale.</span><br>
+        <span lang="en">The main emergency exit.</span><br>
+        <span lang="zh">主紧急出口。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Puoi usare un estintore se...</span></p>
+        <p><span lang="en">You can use a fire extinguisher if...</span></p>
+        <p><span lang="zh">您可以在以下情况下使用灭火器...</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Sei stato addestrato, il fuoco è piccolo e hai una via di fuga sicura.</span><br>
+        <span lang="en">You have been trained, the fire is small, and you have a safe escape route.</span><br>
+        <span lang="zh">您受过培训，火势很小，并且有安全的疏散路线。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Il fuoco è molto grande e si sta diffondendo.</span><br>
+        <span lang="en">The fire is very large and spreading.</span><br>
+        <span lang="zh">火势很大并且正在蔓延。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Non hai mai ricevuto addestramento.</span><br>
+        <span lang="en">You have never received training.</span><br>
+        <span lang="zh">您从未接受过培训。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Le vie di esodo devono essere...</span></p>
+        <p><span lang="en">Escape routes must be...</span></p>
+        <p><span lang="zh">疏散路线必须...</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Sempre libere da ostacoli.</span><br>
+        <span lang="en">Always free of obstacles.</span><br>
+        <span lang="zh">始终没有障碍物。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Usate come magazzino temporaneo.</span><br>
+        <span lang="en">Used as temporary storage.</span><br>
+        <span lang="zh">用作临时存储。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Bloccate per evitare l'ingresso di estranei.</span><br>
+        <span lang="en">Blocked to prevent entry of strangers.</span><br>
+        <span lang="zh">被阻塞以防止外人进入。</span>
+      ]]></text>
+    </answer>
+  </question>
+</quiz>

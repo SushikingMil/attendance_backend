@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+  <type>book</type>
+  <name>
+    <![CDATA[
+    <span lang="it">3. Movimentazione Manuale dei Carichi e Posture Corrette</span><br>
+    <span lang="en">3. Manual Handling of Loads and Correct Postures</span><br>
+    <span lang="zh">3. 手动搬运货物和正确姿势</span>
+    ]]>
+  </name>
+  <intro>
+    <![CDATA[
+    <p><em>[Placeholder per video dimostrativo su come sollevare un peso]</em></p>
+    <p><strong>IT:</strong> Sollevare e trasportare pesi in modo sbagliato è una delle principali cause di infortunio. Impariamo a farlo correttamente.</p>
+    <p><strong>EN:</strong> Lifting and carrying loads incorrectly is a leading cause of injury. Let's learn to do it correctly.</p>
+    <p><strong>ZH:</strong> 不正确地提举和搬运重物是造成伤害的主要原因。让我们学习如何正确操作。</p>
+    ]]>
+  </intro>
+  <chapters>
+    <chapter>
+      <title><![CDATA[<span lang="it">La Tecnica di Sollevamento Corretta</span><br><span lang="en">The Correct Lifting Technique</span><br><span lang="zh">正确的提举技巧</span>]]></title>
+      <content><![CDATA[
+        <p><em>[Placeholder per illustrazione che mostra la postura corretta vs. scorretta]</em></p>
+        <table style="width:100%;" border="1">
+          <thead><tr style="background-color:#FFD700; color:#000000;"><th style="padding: 8px;">Italiano 🇮🇹</th><th style="padding: 8px;">English 🇬🇧</th><th style="padding: 8px;">中文 🇨🇳</th></tr></thead>
+          <tbody>
+            <tr><td style="padding: 8px;"><strong>1. Valuta il Carico:</strong> Assicurati che non sia troppo pesante o ingombrante. Chiedi aiuto se necessario.</td><td style="padding: 8px;"><strong>1. Assess the Load:</strong> Make sure it is not too heavy or bulky. Ask for help if needed.</td><td style="padding: 8px;"><strong>1. 评估货物:</strong> 确保它不太重或太大。如果需要，请寻求帮助。</td></tr>
+            <tr><td style="padding: 8px;"><strong>2. Posizione Stabile:</strong> Posiziona i piedi a larghezza delle spalle per avere una base solida.</td><td style="padding: 8px;"><strong>2. Stable Position:</strong> Place your feet shoulder-width apart for a solid base.</td><td style="padding: 8px;"><strong>2. 稳定姿势:</strong> 双脚与肩同宽，以获得稳固的基础。</td></tr>
+            <tr><td style="padding: 8px;"><strong>3. Piega le Ginocchia:</strong> Piegati sulle ginocchia, non sulla schiena. Mantieni la schiena dritta.</td><td style="padding: 8px;"><strong>3. Bend Your Knees:</strong> Bend at your knees, not your back. Keep your back straight.</td><td style="padding: 8px;"><strong>3. 弯曲膝盖:</strong> 弯曲膝盖，而不是背部。保持背部挺直。</td></tr>
+            <tr><td style="padding: 8px;"><strong>4. Presa Salda e Vicina al Corpo:</strong> Afferra il carico con entrambe le mani e tienilo il più vicino possibile al corpo.</td><td style="padding: 8px;"><strong>4. Firm Grip and Close to the Body:</strong> Grasp the load with both hands and keep it as close to your body as possible.</td><td style="padding: 8px;"><strong>4. 紧握并靠近身体:</strong> 用双手抓住货物，并使其尽可能靠近身体。</td></tr>
+            <tr><td style="padding: 8px;"><strong>5. Solleva con le Gambe:</strong> Usa la forza delle gambe per sollevarti, non la schiena. Evita movimenti bruschi o torsioni.</td><td style="padding: 8px;"><strong>5. Lift with Your Legs:</strong> Use the strength of your legs to lift, not your back. Avoid sudden movements or twisting.</td><td style="padding: 8px;"><strong>5. 用腿部力量提举:</strong> 用腿的力量来提举，而不是背部。避免突然的动作或扭转。</td></tr>
+          </tbody>
+        </table>
+      ]]></content>
+    </chapter>
+     <chapter>
+      <title><![CDATA[<span lang="it">Posture Corrette</span><br><span lang="en">Correct Postures</span><br><span lang="zh">正确姿势</span>]]></title>
+      <content><![CDATA[
+        <p><em>[Placeholder per illustrazione della postura corretta al banco sushi]</em></p>
+        <p><strong>IT:</strong> Mantenere una buona postura durante il lavoro previene dolori e affaticamento.</p>
+        <p><strong>EN:</strong> Maintaining good posture during work prevents pain and fatigue.</p>
+        <p><strong>ZH:</strong> 在工作中保持良好姿势可预防疼痛和疲劳。</p>
+        <ul>
+        <li><span lang="it"><strong>Evita di incurvarti:</strong> Tieni la schiena dritta quando lavori al bancone.</span><br><span lang="en"><strong>Avoid slouching:</strong> Keep your back straight when working at the counter.</span><br><span lang="zh"><strong>避免弯腰:</strong> 在柜台工作时保持背部挺直。</span></li>
+        <li><span lang="it"><strong>Fai delle pause:</strong> Se svolgi compiti ripetitivi, fai brevi pause per allungare i muscoli.</span><br><span lang="en"><strong>Take breaks:</strong> If you perform repetitive tasks, take short breaks to stretch your muscles.</span><br><span lang="zh"><strong>休息一下:</strong> 如果你执行重复性任务，请稍作休息以伸展肌肉。</span></li>
+        </ul>
+      ]]></content>
+    </chapter>
+  </chapters>
+</activity>

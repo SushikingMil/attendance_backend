@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+  <type>page</type>
+  <name>
+    <![CDATA[
+    <span lang="it">1. Addestramento Attrezzature da Cucina</span><br>
+    <span lang="en">1. Kitchen Equipment Training</span><br>
+    <span lang="zh">1. 厨房设备培训</span>
+    ]]>
+  </name>
+  <content>
+    <![CDATA[
+    <p><strong>IT:</strong> Guarda i video e leggi le procedure per usare in sicurezza le attrezzature principali.</p>
+    <p><strong>EN:</strong> Watch the videos and read the procedures to safely use the main equipment.</p>
+    <p><strong>ZH:</strong> 观看视频并阅读安全使用主要设备的程序。</p>
+    <hr>
+
+    <h4><span lang="it">Affettatrice</span> / <span lang="en">Slicer</span> / <span lang="zh">切片机</span></h4>
+    <p><em>[Placeholder per video dimostrativo sull'uso sicuro dell'affettatrice]</em></p>
+    <ul>
+      <li><span lang="it"><strong>Verifica Protezioni:</strong> Controlla sempre che tutte le protezioni (carter, coprilama) siano al loro posto.</span><br><span lang="en"><strong>Check Guards:</strong> Always check that all guards (casing, blade cover) are in place.</span><br><span lang="zh"><strong>检查防护罩:</strong> 始终检查所有防护罩（外壳、刀片盖）是否就位。</span></li>
+      <li><span lang="it"><strong>Usa il Pressamerce:</strong> Non usare mai le mani per spingere il cibo. Usa sempre l'apposito strumento.</span><br><span lang="en"><strong>Use the Food Pusher:</strong> Never use your hands to push the food. Always use the specific tool.</span><br><span lang="zh"><strong>使用食物推杆:</strong> 切勿用手推动食物。始终使用专用工具。</span></li>
+      <li><span lang="it"><strong>Guanti Antitaglio:</strong> Indossa guanti antitaglio durante la pulizia della lama.</span><br><span lang="en"><strong>Cut-resistant Gloves:</strong> Wear cut-resistant gloves when cleaning the blade.</span><br><span lang="zh"><strong>防割手套:</strong> 清洁刀片时请佩戴防割手套。</span></li>
+    </ul>
+
+    <h4><span lang="it">Coltelli Professionali</span> / <span lang="en">Professional Knives</span> / <span lang="zh">专业刀具</span></h4>
+    <p><em>[Placeholder per video dimostrativo sulla corretta impugnatura e taglio]</em></p>
+    <ul>
+      <li><span lang="it"><strong>Taglia Lontano dal Corpo:</strong> Dirigi sempre la lama lontano da te e dalle tue mani.</span><br><span lang="en"><strong>Cut Away from the Body:</strong> Always direct the blade away from yourself and your hands.</span><br><span lang="zh"><strong>切割时远离身体:</strong> 始终将刀片朝向远离自己和手的方向。</span></li>
+      <li><span lang="it"><strong>Superficie Stabile:</strong> Usa sempre un tagliere stabile e antiscivolo.</span><br><span lang="en"><strong>Stable Surface:</strong> Always use a stable, non-slip cutting board.</span><br><span lang="zh"><strong>稳定的表面:</strong> 始终使用稳定、防滑的切菜板。</span></li>
+    </ul>
+
+    <h4><span lang="it">Friggitrici</span> / <span lang="en">Fryers</span> / <span lang="zh">油炸锅</span></h4>
+    <p><em>[Placeholder per video dimostrativo su come immergere e rimuovere cibo dall'olio]</em></p>
+    <ul>
+      <li><span lang="it"><strong>Niente Acqua:</strong> Non versare mai acqua nell'olio caldo. Causa schizzi pericolosi.</span><br><span lang="en"><strong>No Water:</strong> Never pour water into hot oil. It causes dangerous splashes.</span><br><span lang="zh"><strong>禁止加水:</strong> 切勿将水倒入热油中。这会导致危险的飞溅。</span></li>
+      <li><span lang="it"><strong>Immergi Lentamente:</strong> Immergi il cestello con il cibo lentamente per evitare schizzi.</span><br><span lang="en"><strong>Immerse Slowly:</strong> Immerse the basket with food slowly to avoid splashes.</span><br><span lang="zh"><strong>缓慢浸入:</strong> 缓慢地将装有食物的篮子浸入，以避免飞溅。</span></li>
+    </ul>
+    ]]>
+  </content>
+</activity>

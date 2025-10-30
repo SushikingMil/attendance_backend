@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 6</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Cosa devi fare se vedi un cavo elettrico danneggiato?</span></p>
+        <p><span lang="en">What should you do if you see a damaged electrical cable?</span></p>
+        <p><span lang="zh">如果你看到损坏的电缆该怎么办？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Segnalarlo subito e non usare l'apparecchio.</span><br>
+        <span lang="en">Report it immediately and do not use the appliance.</span><br>
+        <span lang="zh">立即报告并且不要使用该电器。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Provare a ripararlo con del nastro adesivo.</span><br>
+        <span lang="en">Try to repair it with tape.</span><br>
+        <span lang="zh">尝试用胶带修复它。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Continuare a usarlo con attenzione.</span><br>
+        <span lang="en">Continue to use it carefully.</span><br>
+        <span lang="zh">继续小心使用。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 7</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Qual è una misura di prevenzione per il rischio da taglio?</span></p>
+        <p><span lang="en">What is a prevention measure for cutting risk?</span></p>
+        <p><span lang="zh">什么是预防切割风险的措施？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Non lasciare mai i coltelli in ammollo nel lavandino.</span><br>
+        <span lang="en">Never leave knives soaking in the sink.</span><br>
+        <span lang="zh">切勿将刀具浸泡在水槽中。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Usare coltelli poco affilati per essere più sicuri.</span><br>
+        <span lang="en">Use blunt knives to be safer.</span><br>
+        <span lang="zh">使用钝刀会更安全。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Indossare anelli mentre si taglia.</span><br>
+        <span lang="en">Wear rings while cutting.</span><br>
+        <span lang="zh">切割时戴戒指。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 8</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Usare i carter (protezioni) su un'affettatrice previene un rischio...</span></p>
+        <p><span lang="en">Using guards on a slicer prevents a...</span></p>
+        <p><span lang="zh">在切片机上使用防护罩可以预防...</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Meccanico</span><br>
+        <span lang="en">Mechanical risk</span><br>
+        <span lang="zh">机械风险</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Elettrico</span><br>
+        <span lang="en">Electrical risk</span><br>
+        <span lang="zh">电气风险</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Termico</span><br>
+        <span lang="en">Thermal risk</span><br>
+        <span lang="zh">热风险</span>
+      ]]></text>
+    </answer>
+  </question>
+    <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 9</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Qual è la prima cosa da fare se si versa dell'olio sul pavimento?</span></p>
+        <p><span lang="en">What is the first thing to do if oil is spilled on the floor?</span></p>
+        <p><span lang="zh">如果油洒在地板上，第一件该做的事是什么？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Pulire immediatamente.</span><br>
+        <span lang="en">Clean it up immediately.</span><br>
+        <span lang="zh">立即清理。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Mettere un cartello di avviso e pulire a fine turno.</span><br>
+        <span lang="en">Put up a warning sign and clean at the end of the shift.</span><br>
+        <span lang="zh">放置警告标志并在下班时清理。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Ignorare la cosa, si asciugherà da solo.</span><br>
+        <span lang="en">Ignore it, it will dry on its own.</span><br>
+        <span lang="zh">忽略它，它会自己干的。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Usare guanti da forno è una misura di protezione contro quale rischio?</span></p>
+        <p><span lang="en">Using oven mitts is a protective measure against which risk?</span></p>
+        <p><span lang="zh">使用烤箱手套是针对哪种风险的保护措施？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Rischio Termico</span><br>
+        <span lang="en">Thermal Risk</span><br>
+        <span lang="zh">热风险</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Rischio da Taglio</span><br>
+        <span lang="en">Cutting Risk</span><br>
+        <span lang="zh">切割风险</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Rischio Elettrico</span><br>
+        <span lang="en">Electrical Risk</span><br>
+        <span lang="zh">电气风险</span>
+      ]]></text>
+    </answer>
+  </question>
+</quiz>

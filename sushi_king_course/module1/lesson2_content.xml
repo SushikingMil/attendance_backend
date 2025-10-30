@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+  <type>book</type>
+  <name>
+    <![CDATA[
+    <span lang="it">2. Organizzazione della Prevenzione Aziendale</span><br>
+    <span lang="en">2. Organization of Company Prevention</span><br>
+    <span lang="zh">2. 公司预防组织</span>
+    ]]>
+  </name>
+  <intro>
+    <![CDATA[
+    <p><em>[Placeholder per video/animazione introduttiva]</em></p>
+    <p><strong>IT:</strong> Ogni azienda ha una squadra dedicata a garantire la sicurezza. Ecco chi sono le figure chiave in Sushi King.</p>
+    <p><strong>EN:</strong> Every company has a team dedicated to ensuring safety. Here are the key figures at Sushi King.</p>
+    <p><strong>ZH:</strong> 每个公司都有一个致力于确保安全的团队。以下是Sushi King的关键人物。</p>
+    ]]>
+  </intro>
+  <chapters>
+    <chapter>
+      <title>
+        <![CDATA[
+        <span lang="it">Figure della Sicurezza in Sushi King</span><br>
+        <span lang="en">Safety Roles at Sushi King</span><br>
+        <span lang="zh">Sushi King的安全角色</span>
+        ]]>
+      </title>
+      <content>
+        <![CDATA[
+        <table style="width:100%; border-collapse: collapse;" border="1">
+          <thead>
+            <tr style="background-color:#FFD700; color:#000000;">
+              <th style="padding: 8px;">Ruolo (Italiano 🇮🇹)</th>
+              <th style="padding: 8px;">Role (English 🇬🇧)</th>
+              <th style="padding: 8px;">职责 (中文 🇨🇳)</th>
+              <th style="padding: 8px;">Nome / Name / 姓名</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="padding: 8px;"><strong>Datore di Lavoro</strong></td>
+              <td style="padding: 8px;"><strong>Employer</strong></td>
+              <td style="padding: 8px;"><strong>雇主</strong></td>
+              <td style="padding: 8px;">Ging Li</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;"><strong>Responsabile del Servizio di Prevenzione e Protezione (RSPP)</strong></td>
+              <td style="padding: 8px;"><strong>Head of the Prevention and Protection Service (HSPP)</strong></td>
+              <td style="padding: 8px;"><strong>预防和保护服务负责人 (RSPP)</strong></td>
+              <td style="padding: 8px;">Dott. Roberto Muretti</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;"><strong>Medico Competente</strong></td>
+              <td style="padding: 8px;"><strong>Occupational Physician</strong></td>
+              <td style="padding: 8px;"><strong>职业医师</strong></td>
+              <td style="padding: 8px;">Dott. Alessandro Montuori</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;"><strong>Rappresentante dei Lavoratori per la Sicurezza (RLS)</strong></td>
+              <td style="padding: 8px;"><strong>Workers' Safety Representative (WSR)</strong></td>
+              <td style="padding: 8px;"><strong>工人安全代表 (RLS)</strong></td>
+              <td style="padding: 8px;">Sig. Hu Lifeng</td>
+            </tr>
+          </tbody>
+        </table>
+        ]]>
+      </content>
+    </chapter>
+  </chapters>
+</activity>
