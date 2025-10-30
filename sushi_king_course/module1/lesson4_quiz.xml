@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>Domanda Vigili del Fuoco 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Quale organo si occupa principalmente della prevenzione incendi?</span></p>
+        <p><span lang="en">Which body is primarily responsible for fire prevention?</span></p>
+        <p><span lang="zh">哪个机构主要负责消防？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Vigili del Fuoco</span><br>
+        <span lang="en">Fire Brigade</span><br>
+        <span lang="zh">消防队</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">ASL (ATS)</span><br>
+        <span lang="en">Local Health Authority</span><br>
+        <span lang="zh">地方卫生局</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">INAIL</span><br>
+        <span lang="en">National Institute for Insurance against Accidents at Work</span><br>
+        <span lang="zh">国家工伤事故保险局</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Domanda INAIL 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">L'INAIL ha il compito di:</span></p>
+        <p><span lang="en">INAIL's task is to:</span></p>
+        <p><span lang="zh">INAIL的任务是：</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Assicurare i lavoratori contro gli infortuni.</span><br>
+        <span lang="en">Insure workers against accidents.</span><br>
+        <span lang="zh">为工人投保工伤事故险。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Controllare i contratti di lavoro.</span><br>
+        <span lang="en">Check employment contracts.</span><br>
+        <span lang="zh">检查雇佣合同。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Verificare la sicurezza in cucina.</span><br>
+        <span lang="en">Check safety in the kitchen.</span><br>
+        <span lang="zh">检查厨房的安全。</span>
+      ]]></text>
+    </answer>
+  </question>
+    <question type="multichoice">
+    <name>
+      <text>Domanda ASL 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Quale ente verifica la salute e la sicurezza in tutti gli ambienti di lavoro?</span></p>
+        <p><span lang="en">Which body verifies health and safety in all workplaces?</span></p>
+        <p><span lang="zh">哪个机构负责核实所有工作场所的健康与安全？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">ASL (ATS)</span><br>
+        <span lang="en">Local Health Authority</span><br>
+        <span lang="zh">地方卫生局</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Vigili del Fuoco</span><br>
+        <span lang="en">Fire Brigade</span><br>
+        <span lang="zh">消防队</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">INL</span><br>
+        <span lang="en">National Labour Inspectorate</span><br>
+        <span lang="zh">国家劳动监察局</span>
+      ]]></text>
+    </answer>
+  </question>
+</quiz>

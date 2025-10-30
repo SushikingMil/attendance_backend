@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sections>
+  <section>
+    <number>0</number>
+    <name>
+      <![CDATA[
+      <span lang="it">Benvenuto e Istruzioni</span><br>
+      <span lang="en">Welcome and Instructions</span><br>
+      <span lang="zh">欢迎与说明</span>
+      ]]>
+    </name>
+    <summary></summary>
+  </section>
+  <section>
+    <number>1</number>
+    <name>
+      <![CDATA[
+      <span lang="it">MODULO 1: Formazione Generale</span><br>
+      <span lang="en">MODULE 1: General Training</span><br>
+      <span lang="zh">模块一：一般培训</span>
+      ]]>
+    </name>
+    <summary></summary>
+  </section>
+  <section>
+    <number>2</number>
+    <name>
+      <![CDATA[
+      <span lang="it">MODULO 2: Formazione Specifica – Rischio Medio</span><br>
+      <span lang="en">MODULE 2: Specific Training – Medium Risk</span><br>
+      <span lang="zh">模块二：专项培训 – 中等风险</span>
+      ]]>
+    </name>
+    <summary></summary>
+  </section>
+  <section>
+    <number>3</number>
+    <name>
+      <![CDATA[
+      <span lang="it">MODULO 3: Addestramento Pratico</span><br>
+      <span lang="en">MODULE 3: Practical Training</span><br>
+      <span lang="zh">模块三：实践培训</span>
+      ]]>
+    </name>
+    <summary></summary>
+  </section>
+  <section>
+    <number>4</number>
+    <name>
+      <![CDATA[
+      <span lang="it">Test Finale</span><br>
+      <span lang="en">Final Test</span><br>
+      <span lang="zh">期末测试</span>
+      ]]>
+    </name>
+    <summary></summary>
+  </section>
+  <section>
+    <number>5</number>
+    <name>
+      <![CDATA[
+      <span lang="it">Il tuo Attestato</span><br>
+      <span lang="en">Your Certificate</span><br>
+      <span lang="zh">您的证书</span>
+      ]]>
+    </name>
+    <summary></summary>
+  </section>
+</sections>

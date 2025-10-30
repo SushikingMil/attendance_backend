@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>Domanda Rischio 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Che cos'è il "Rischio"?</span></p>
+        <p><span lang="en">What is "Risk"?</span></p>
+        <p><span lang="zh">什么是“风险”？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">La probabilità che un evento pericoloso causi un danno.</span><br>
+        <span lang="en">The probability that a hazardous event will cause harm.</span><br>
+        <span lang="zh">危险事件将造成损害的概率。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Una conseguenza negativa come una ferita.</span><br>
+        <span lang="en">A negative consequence like an injury.</span><br>
+        <span lang="zh">像受伤一样的负面后果。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Le misure per eliminare un pericolo.</span><br>
+        <span lang="en">Measures to eliminate a hazard.</span><br>
+        <span lang="zh">消除危险的措施。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Domanda Prevenzione 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">La "Prevenzione" ha lo scopo di:</span></p>
+        <p><span lang="en">The purpose of "Prevention" is to:</span></p>
+        <p><span lang="zh">“预防”的目的是：</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Ridurre la probabilità che il rischio si verifichi.</span><br>
+        <span lang="en">Reduce the probability of the risk occurring.</span><br>
+        <span lang="zh">降低风险发生的概率。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Limitare i danni dopo che un incidente è avvenuto.</span><br>
+        <span lang="en">Limit damage after an incident has occurred.</span><br>
+        <span lang="zh">在事故发生后限制损害。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Indossare i Dispositivi di Protezione Individuale (DPI).</span><br>
+        <span lang="en">Wear Personal Protective Equipment (PPE).</span><br>
+        <span lang="zh">佩戴个人防护装备（PPE）。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Domanda Protezione 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Usare un casco di sicurezza è un esempio di:</span></p>
+        <p><span lang="en">Using a safety helmet is an example of:</span></p>
+        <p><span lang="zh">使用安全头盔是以下哪项的例子：</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Protezione</span><br>
+        <span lang="en">Protection</span><br>
+        <span lang="zh">保护</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Prevenzione</span><br>
+        <span lang="en">Prevention</span><br>
+        <span lang="zh">预防</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Danno</span><br>
+        <span lang="en">Harm</span><br>
+        <span lang="zh">损害</span>
+      ]]></text>
+    </answer>
+  </question>
+</quiz>

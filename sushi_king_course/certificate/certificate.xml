@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+  <type>customcert</type>
+  <name>
+    <![CDATA[
+    <span lang="it">Scarica il tuo Attestato</span><br>
+    <span lang="en">Download Your Certificate</span><br>
+    <span lang="zh">下载您的证书</span>
+    ]]>
+  </name>
+  <intro>
+    <![CDATA[
+    <p><span lang="it">Congratulazioni! Hai superato il test finale. Clicca qui per scaricare il tuo attestato di completamento.</span></p>
+    <p><span lang="en">Congratulations! You have passed the final test. Click here to download your certificate of completion.</span></p>
+    <p><span lang="zh">恭喜！您已通过期末测试。点击此处下载您的结业证书。</span></p>
+    ]]>
+  </intro>
+  <customcert>
+    <width>297</width>
+    <height>210</height>
+    <orientation>L</orientation> <!-- Landscape -->
+    <elements>
+      <!-- Background -->
+      <element type="image"_path="[BG_PLACEHOLDER]" x="0" y="0" width="100%" height="100%" />
+      <!-- Logo -->
+      <element type="image" path="logo.png" x="128" y="10" width="40" height="40" />
+      <!-- Main Title -->
+      <element type="text" text="ATTESTATO DI FORMAZIONE / CERTIFICATE OF TRAINING / 培训证书" x="40" y="60" width="217" fontsize="14" font="poppins" color="#FFD700" align="center" />
+      <!-- Confirmation Text -->
+      <element type="text" text="<span lang='it'>Si attesta che</span> / <span lang='en'>This is to certify that</span> / <span lang='zh'>兹证明</span>" x="40" y="85" width="217" fontsize="12" font="lato" color="#FFFFFF" align="center" />
+      <!-- User Name -->
+      <element type="userfield" field="firstname" lastname="1" x="40" y="100" width="217" fontsize="18" font="poppins" color="#FFD700" align="center" />
+      <!-- Course Completion Text -->
+      <element type="text" text="<span lang='it'>ha completato con successo il corso</span> / <span lang='en'>has successfully completed the course</span> / <span lang='zh'>已成功完成课程</span>" x="40" y="115" width="217" fontsize="12" font="lato" color="#FFFFFF" align="center" />
+      <!-- Course Name -->
+      <element type="coursefield" field="fullname" x="40" y="125" width="217" fontsize="12" font="lato" color="#FFFFFF" align="center" />
+       <!-- Date -->
+      <element type="date" x="20" y="150" width="100" fontsize="10" font="lato" color="#FFFFFF" format="%d/%m/%Y" />
+      <element type="text" text="<span lang='it'>Data</span> / <span lang='en'>Date</span> / <span lang='zh'>日期</span>" x="20" y="158" width="100" fontsize="8" font="lato" color="#FFFFFF" />
+      <!-- Signatures -->
+      <element type="text" text="<span lang='it'>Formatore: Ging Li</span><br><span lang='en'>Trainer: Ging Li</span><br><span lang='zh'>培训师: Ging Li</span>" x="120" y="150" width="100" fontsize="10" font="lato" color="#FFFFFF" align="center" />
+      <element type="text" text="<span lang='it'>RSPP: Dott. Roberto Muretti</span><br><span lang='en'>HSPP: Dr. Roberto Muretti</span><br><span lang='zh'>RSPP: Roberto Muretti博士</span>" x="120" y="165" width="100" fontsize="10" font="lato" color="#FFFFFF" align="center" />
+      <!-- Digital Signature Placeholder -->
+      <element type="image" path="[SIGNATURE_PLACEHOLDER]" x="220" y="145" width="50" height="20" />
+      <element type="text" text="<span lang='it'>Firma Datore di Lavoro</span><br><span lang='en'>Employer's Signature</span><br><span lang='zh'>雇主签名</span>" x="200" y="165" width="80" fontsize="8" font="lato" color="#FFFFFF" align="center" />
+    </elements>
+  </customcert>
+</activity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+  <type>book</type>
+  <name>
+    <![CDATA[
+    <span lang="it">2. Dettaglio dei Rischi Specifici</span><br>
+    <span lang="en">2. Details of Specific Risks</span><br>
+    <span lang="zh">2. 具体风险详情</span>
+    ]]>
+  </name>
+  <intro>
+    <![CDATA[
+    <p><strong>IT:</strong> Approfondiamo le principali categorie di rischio presenti nel nostro ambiente di lavoro.</p>
+    <p><strong>EN:</strong> Let's delve into the main risk categories in our work environment.</p>
+    <p><strong>ZH:</strong> 让我们深入了解我们工作环境中的主要风险类别。</p>
+    ]]>
+  </intro>
+  <chapters>
+    <chapter>
+      <title><![CDATA[<span lang="it">Rischi Meccanici ed Elettrici</span><br><span lang="en">Mechanical and Electrical Risks</span><br><span lang="zh">机械和电气风险</span>]]></title>
+      <content><![CDATA[
+        <p><em>[Placeholder per illustrazione di un'affettatrice con protezioni]</em></p>
+        <table style="width:100%;" border="1">
+          <thead><tr style="background-color:#FFD700; color:#000000;"><th style="padding: 8px;">Italiano 🇮🇹</th><th style="padding: 8px;">English 🇬🇧</th><th style="padding: 8px;">中文 🇨🇳</th></tr></thead>
+          <tbody>
+            <tr><td style="padding: 8px;"><strong>Rischio Meccanico:</strong> Deriva da attrezzature in movimento come impastatrici o affettatrici. <strong>Prevenzione:</strong> Usare sempre le protezioni (carter) e non indossare anelli o bracciali.</td><td style="padding: 8px;"><strong>Mechanical Risk:</strong> Stems from moving equipment like mixers or slicers. <strong>Prevention:</strong> Always use guards (casings) and do not wear rings or bracelets.</td><td style="padding: 8px;"><strong>机械风险:</strong> 来自搅拌机或切片机等移动设备。<strong>预防:</strong> 始终使用防护罩，不要佩戴戒指或手镯。</td></tr>
+            <tr><td style="padding: 8px;"><strong>Rischio Elettrico:</strong> Contatto con parti in tensione, cavi scoperti o uso di attrezzature bagnate. <strong>Prevenzione:</strong> Non usare mai apparecchi con mani bagnate e segnalare subito cavi danneggiati.</td><td style="padding: 8px;"><strong>Electrical Risk:</strong> Contact with live parts, exposed wires, or using wet equipment. <strong>Prevention:</strong> Never use appliances with wet hands and report damaged cables immediately.</td><td style="padding: 8px;"><strong>电气风险:</strong> 接触带电部件、裸露电线或使用湿设备。<strong>预防:</strong> 切勿用湿手使用电器，并立即报告损坏的电缆。</td></tr>
+          </tbody>
+        </table>
+      ]]></content>
+    </chapter>
+    <chapter>
+      <title><![CDATA[<span lang="it">Rischi Termici, da Taglio e Scivolamento</span><br><span lang="en">Thermal, Cutting, and Slipping Risks</span><br><span lang="zh">热、切割和滑倒风险</span>]]></title>
+      <content><![CDATA[
+        <p><em>[Placeholder per illustrazione di DPI per il calore e guanti antitaglio]</em></p>
+        <table style="width:100%;" border="1">
+          <thead><tr style="background-color:#FFD700; color:#000000;"><th style="padding: 8px;">Italiano 🇮🇹</th><th style="padding: 8px;">English 🇬🇧</th><th style="padding: 8px;">中文 🇨🇳</th></tr></thead>
+          <tbody>
+            <tr><td style="padding: 8px;"><strong>Rischio Termico:</strong> Ustioni da contatto con forni, fornelli, friggitrici, liquidi e vapori caldi. <strong>Prevenzione:</strong> Usare sempre i guanti da forno (DPI) e fare attenzione al vapore quando si aprono i coperchi.</td><td style="padding: 8px;"><strong>Thermal Risk:</strong> Burns from contact with ovens, stoves, fryers, hot liquids, and steam. <strong>Prevention:</strong> Always use oven mitts (PPE) and be careful of steam when opening lids.</td><td style="padding: 8px;"><strong>热风险:</strong> 接触烤箱、炉灶、油炸锅、热液体和蒸汽造成的烫伤。<strong>预防:</strong> 始终使用烤箱手套（PPE），打开盖子时要小心蒸汽。</td></tr>
+            <tr><td style="padding: 8px;"><strong>Rischio da Taglio:</strong> Uso di coltelli, affettatrici, vetri rotti. <strong>Prevenzione:</strong> Usare guanti antitaglio quando necessario, mantenere i coltelli affilati e non lasciare mai coltelli in ammollo.</td><td style="padding: 8px;"><strong>Cutting Risk:</strong> Use of knives, slicers, broken glass. <strong>Prevention:</strong> Use cut-resistant gloves when necessary, keep knives sharp, and never leave knives soaking.</td><td style="padding: 8px;"><strong>切割风险:</strong> 使用刀具、切片机、碎玻璃。<strong>预防:</strong> 必要时使用防割手套，保持刀具锋利，切勿将刀具浸泡。</td></tr>
+            <tr><td style="padding: 8px;"><strong>Rischio Scivolamento:</strong> Pavimenti bagnati da acqua, olio o residui di cibo. <strong>Prevenzione:</strong> Pulire immediatamente qualsiasi versamento e usare scarpe antinfortunistiche con suola antiscivolo.</td><td style="padding: 8px;"><strong>Slipping Risk:</strong> Floors wet from water, oil, or food residues. <strong>Prevention:</strong> Clean up any spills immediately and wear safety shoes with non-slip soles.</td><td style="padding: 8px;"><strong>滑倒风险:</strong> 地板因水、油或食物残渣而湿滑。<strong>预防:</strong> 立即清理任何溢出物，并穿防滑鞋底的安全鞋。</td></tr>
+          </tbody>
+        </table>
+      ]]></content>
+    </chapter>
+  </chapters>
+</activity>

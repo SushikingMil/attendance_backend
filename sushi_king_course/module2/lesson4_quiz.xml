@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Dove trovi le informazioni complete sulla gestione sicura di un prodotto chimico?</span></p>
+        <p><span lang="en">Where do you find complete information on the safe handling of a chemical product?</span></p>
+        <p><span lang="zh">在哪里可以找到有关安全处理化学产品的完整信息？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Nella Scheda di Dati di Sicurezza (SDS).</span><br>
+        <span lang="en">In the Safety Data Sheet (SDS).</span><br>
+        <span lang="zh">在安全数据表（SDS）中。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Sul sito web del produttore.</span><br>
+        <span lang="en">On the manufacturer's website.</span><br>
+        <span lang="zh">在制造商的网站上。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Chiedendo a un collega.</span><br>
+        <span lang="en">By asking a colleague.</span><br>
+        <span lang="zh">询问同事。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Un prodotto con il pittogramma "Corrosivo" può...</span></p>
+        <p><span lang="en">A product with the "Corrosive" pictogram can...</span></p>
+        <p><span lang="zh">带有“腐蚀性”象形图的产品可以...</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Causare gravi ustioni alla pelle.</span><br>
+        <span lang="en">Cause severe skin burns.</span><br>
+        <span lang="zh">导致严重的皮肤灼伤。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Prendere fuoco facilmente.</span><br>
+        <span lang="en">Catch fire easily.</span><br>
+        <span lang="zh">容易着火。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Essere bevuto senza problemi.</span><br>
+        <span lang="en">Be drunk without problems.</span><br>
+        <span lang="zh">可以安全饮用。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Quali DPI sono essenziali per proteggersi dagli schizzi di prodotti chimici negli occhi?</span></p>
+        <p><span lang="en">Which PPE are essential to protect against chemical splashes in the eyes?</span></p>
+        <p><span lang="zh">哪些个人防护装备对于防止化学品溅入眼睛至关重要？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Occhiali di protezione o visiera.</span><br>
+        <span lang="en">Goggles or a face shield.</span><br>
+        <span lang="zh">护目镜或面罩。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Guanti.</span><br>
+        <span lang="en">Gloves.</span><br>
+        <span lang="zh">手套。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Scarpe antinfortunistiche.</span><br>
+        <span lang="en">Safety shoes.</span><br>
+        <span lang="zh">安全鞋。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Cosa NON devi MAI fare con i prodotti per la pulizia?</span></p>
+        <p><span lang="en">What should you NEVER do with cleaning products?</span></p>
+        <p><span lang="zh">使用清洁产品时绝对不能做什么？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Mescolare prodotti diversi tra loro.</span><br>
+        <span lang="en">Mix different products together.</span><br>
+        <span lang="zh">将不同的产品混合在一起。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Leggere l'etichetta prima dell'uso.</span><br>
+        <span lang="en">Read the label before use.</span><br>
+        <span lang="zh">使用前阅读标签。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Conservarli in un luogo sicuro e chiuso.</span><br>
+        <span lang="en">Store them in a safe, closed place.</span><br>
+        <span lang="zh">将它们存放在安全、封闭的地方。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Modulo 2 Domanda 20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Il pittogramma con una fiamma indica un pericolo...</span></p>
+        <p><span lang="en">The pictogram with a flame indicates a...</span></p>
+        <p><span lang="zh">带有火焰的象形图表示...</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Infiammabile</span><br>
+        <span lang="en">Flammable hazard</span><br>
+        <span lang="zh">易燃危险</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Corrosivo</span><br>
+        <span lang="en">Corrosive hazard</span><br>
+        <span lang="zh">腐蚀性危险</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Tossico</span><br>
+        <span lang="en">Toxic hazard</span><br>
+        <span lang="zh">有毒危险</span>
+      ]]></text>
+    </answer>
+  </question>
+</quiz>

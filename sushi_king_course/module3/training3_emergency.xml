@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+  <type>page</type>
+  <name>
+    <![CDATA[
+    <span lang="it">3. Simulazione di Emergenza (Evacuazione)</span><br>
+    <span lang="en">3. Emergency Drill (Evacuation)</span><br>
+    <span lang="zh">3. 紧急演习（疏散）</span>
+    ]]>
+  </name>
+  <content>
+    <![CDATA[
+    <p><strong>IT:</strong> Cosa fare quando senti l'allarme di evacuazione? Segui questi passaggi, senza panico.</p>
+    <p><strong>EN:</strong> What to do when you hear the evacuation alarm? Follow these steps, without panic.</p>
+    <p><strong>ZH:</strong> 当你听到疏散警报时该怎么办？请按照以下步骤，不要惊慌。</p>
+    <hr>
+
+    <h4><span lang="it">Checklist Evacuazione</span> / <span lang="en">Evacuation Checklist</span> / <span lang="zh">疏散清单</span></h4>
+    <p><em>[Placeholder per animazione che mostra la simulazione di evacuazione]</em></p>
+    <ol>
+      <li><span lang="it"><strong>Interrompi l'Attività:</strong> Smetti immediatamente di fare ciò che stai facendo. Se possibile, metti in sicurezza le attrezzature (es. spegni i fornelli).</span><br>
+          <span lang="en"><strong>Stop Your Activity:</strong> Immediately stop what you are doing. If possible, secure the equipment (e.g., turn off the stoves).</span><br>
+          <span lang="zh"><strong>停止活动:</strong> 立即停止你正在做的事情。如果可能，请确保设备安全（例如关闭炉灶）。</span></li>
+
+      <li><span lang="it"><strong>Non Prendere Oggetti Personali:</strong> Lascia tutto. La tua sicurezza è la priorità.</span><br>
+          <span lang="en"><strong>Do Not Take Personal Belongings:</strong> Leave everything. Your safety is the priority.</span><br>
+          <span lang="zh"><strong>不要拿个人物品:</strong> 丢下所有东西。您的安全是第一位的。</span></li>
+
+      <li><span lang="it"><strong>Dirigiti all'Uscita di Sicurezza:</strong> Avviati con calma verso l'uscita di emergenza più vicina, seguendo le indicazioni verdi. Aiuta eventuali clienti o colleghi in difficoltà.</span><br>
+          <span lang="en"><strong>Head to the Emergency Exit:</strong> Proceed calmly to the nearest emergency exit, following the green signs. Help any customers or colleagues in difficulty.</span><br>
+          <span lang="zh"><strong>前往紧急出口:</strong> 冷静地前往最近的紧急出口，遵循绿色标志。帮助任何有困难的顾客或同事。</span></li>
+
+      <li><span lang="it"><strong>Non Tornare Indietro:</strong> Per nessuna ragione.</span><br>
+          <span lang="en"><strong>Do Not Go Back:</strong> For any reason.</span><br>
+          <span lang="zh"><strong>不要回去:</strong> 无论出于何种原因。</span></li>
+
+      <li><span lang="it"><strong>Raggiungi il Punto di Raccolta:</strong> Una volta fuori, vai direttamente al punto di raccolta esterno e attendi che venga fatto l'appello.</span><br>
+          <span lang="en"><strong>Go to the Assembly Point:</strong> Once outside, go directly to the external assembly point and wait for the roll call.</span><br>
+          <span lang="zh"><strong>前往集合点:</strong> 出去后，直接前往外部集合点，等待点名。</span></li>
+    </ol>
+    ]]>
+  </content>
+</activity>

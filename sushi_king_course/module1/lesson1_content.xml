@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+  <type>book</type>
+  <name>
+    <![CDATA[
+    <span lang="it">1. Concetti di Rischio, Danno, Prevenzione e Protezione</span><br>
+    <span lang="en">1. Concepts of Risk, Harm, Prevention, and Protection</span><br>
+    <span lang="zh">1. 风险、损害、预防和保护的概念</span>
+    ]]>
+  </name>
+  <intro>
+    <![CDATA[
+    <p><em>[Placeholder per video/animazione introduttiva]</em></p>
+    <p><strong>IT:</strong> In questa lezione, esploreremo i concetti fondamentali della sicurezza sul lavoro.</p>
+    <p><strong>EN:</strong> In this lesson, we will explore the fundamental concepts of workplace safety.</p>
+    <p><strong>ZH:</strong> 在本课中，我们将探讨工作场所安全的基本概念。</p>
+    ]]>
+  </intro>
+  <chapters>
+    <chapter>
+      <title>
+        <![CDATA[
+        <span lang="it">Definizioni Chiave</span><br>
+        <span lang="en">Key Definitions</span><br>
+        <span lang="zh">关键定义</span>
+        ]]>
+      </title>
+      <content>
+        <![CDATA[
+        <table style="width:100%; border-collapse: collapse;" border="1">
+          <thead>
+            <tr style="background-color:#FFD700; color:#000000;">
+              <th style="padding: 8px;">Italiano 🇮🇹</th>
+              <th style="padding: 8px;">English 🇬🇧</th>
+              <th style="padding: 8px;">中文 🇨🇳</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="padding: 8px;"><strong>Rischio:</strong> La probabilità che si verifichi un evento pericoloso che possa causare un danno.</td>
+              <td style="padding: 8px;"><strong>Risk:</strong> The probability of a hazardous event occurring that could cause harm.</td>
+              <td style="padding: 8px;"><strong>风险:</strong> 可能造成损害的危险事件发生的概率。</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;"><strong>Danno:</strong> Qualsiasi conseguenza negativa derivante da un evento pericoloso (es. ferita, malattia).</td>
+              <td style="padding: 8px;"><strong>Harm:</strong> Any negative consequence resulting from a hazardous event (e.g., injury, illness).</td>
+              <td style="padding: 8px;"><strong>损害:</strong> 危险事件导致的任何负面后果（例如受伤、疾病）。</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;"><strong>Prevenzione:</strong> Misure adottate per ridurre o eliminare la probabilità che si verifichi un rischio.</td>
+              <td style="padding: 8px;"><strong>Prevention:</strong> Measures taken to reduce or eliminate the probability of a risk occurring.</td>
+              <td style="padding: 8px;"><strong>预防:</strong> 为减少或消除风险发生概率而采取的措施。</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;"><strong>Protezione:</strong> Misure adottate per limitare i danni qualora l'evento pericoloso si verifichi (es. DPI).</td>
+              <td style="padding: 8px;"><strong>Protection:</strong> Measures taken to limit harm if the hazardous event occurs (e.g., PPE).</td>
+              <td style="padding: 8px;"><strong>保护:</strong> 在危险事件发生时为限制损害而采取的措施（例如个人防护装备）。</td>
+            </tr>
+          </tbody>
+        </table>
+        ]]>
+      </content>
+    </chapter>
+  </chapters>
+</activity>

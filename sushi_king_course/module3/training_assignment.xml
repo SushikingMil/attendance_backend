@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+  <type>assign</type>
+  <name>
+    <![CDATA[
+    <span lang="it">Carica la Scheda di Addestramento Firmata</span><br>
+    <span lang="en">Upload the Signed Training Sheet</span><br>
+    <span lang="zh">上传已签署的培训表</span>
+    ]]>
+  </name>
+  <intro>
+    <![CDATA[
+    <p><span lang="it">Per completare il Modulo 3, segui questi passaggi:</span></p>
+    <p><span lang="en">To complete Module 3, follow these steps:</span></p>
+    <p><span lang="zh">要完成模块3，请按照以下步骤操作：</span></p>
+    <ol>
+      <li><span lang="it"><strong>Scarica</strong> la "Scheda di Addestramento Pratico" disponibile qui sotto.</span><br>
+          <span lang="en"><strong>Download</strong> the "Practical Training Record Sheet" available below.</span><br>
+          <span lang="zh"><strong>下载</strong>下方提供的“实践培训记录表”。</span></li>
+      <li><span lang="it"><strong>Completala</strong> insieme al tuo formatore (Datore di Lavoro).</span><br>
+          <span lang="en"><strong>Complete it</strong> with your trainer (Employer).</span><br>
+          <span lang="zh">与您的培训师（雇主）一起<strong>完成</strong>它。</span></li>
+      <li><span lang="it"><strong>Firmala</strong> in entrambi gli spazi.</span><br>
+          <span lang="en"><strong>Sign it</strong> in both spaces.</span><br>
+          <span lang="zh">在两个空格处<strong>签名</strong>。</span></li>
+      <li><span lang="it"><strong>Carica</strong> una foto o una scansione della scheda compilata in questa pagina per la registrazione.</span><br>
+          <span lang="en"><strong>Upload</strong> a photo or scan of the completed sheet on this page for registration.</span><br>
+          <span lang="zh">在此页面上<strong>上传</strong>已完成表格的照片或扫描件以进行注册。</span></li>
+    </ol>
+    <p><em>[Placeholder per il link al file PDF della scheda di addestramento]</em></p>
+    ]]>
+  </intro>
+  <assign>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assignsubmission_file_enabled>1</assignsubmission_file_enabled>
+    <maxfilesubmissions>1</maxfilesubmissions>
+    <maxsubmissionbytes>10485760</maxsubmissionbytes> <!-- 10 MB -->
+    <requiregrading>1</requiregrading>
+    <completionrequiresgrade>1</completionrequiresgrade>
+  </assign>
+</activity>

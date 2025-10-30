@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+  <type>book</type>
+  <name>
+    <![CDATA[
+    <span lang="it">4. Organi di Vigilanza</span><br>
+    <span lang="en">4. Supervisory Bodies</span><br>
+    <span lang="zh">4. 监督机构</span>
+    ]]>
+  </name>
+  <intro>
+    <![CDATA[
+    <p><em>[Placeholder per video/animazione introduttiva]</em></p>
+    <p><strong>IT:</strong> Esistono enti esterni che controllano il rispetto delle norme di sicurezza. Conosciamoli.</p>
+    <p><strong>EN:</strong> There are external bodies that monitor compliance with safety regulations. Let's get to know them.</p>
+    <p><strong>ZH:</strong> 有外部机构监督安全法规的遵守情况。让我们来了解它们。</p>
+    ]]>
+  </intro>
+  <chapters>
+    <chapter>
+      <title>
+        <![CDATA[
+        <span lang="it">Chi Controlla la Sicurezza</span><br>
+        <span lang="en">Who Monitors Safety</span><br>
+        <span lang="zh">谁来监督安全</span>
+        ]]>
+      </title>
+      <content>
+        <![CDATA[
+        <table style="width:100%; border-collapse: collapse;" border="1">
+          <thead>
+            <tr style="background-color:#FFD700; color:#000000;">
+              <th style="padding: 8px;">Organo (Italiano 🇮🇹)</th>
+              <th style="padding: 8px;">Supervisory Body (English 🇬🇧)</th>
+              <th style="padding: 8px;">监督机构 (中文 🇨🇳)</th>
+              <th style="padding: 8px;">Ruolo Principale / Main Role / 主要职责</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="padding: 8px;"><strong>ASL (ATS)</strong></td>
+              <td style="padding: 8px;"><strong>Local Health Authority</strong></td>
+              <td style="padding: 8px;"><strong>地方卫生局</strong></td>
+              <td style="padding: 8px;">Verifica la salute e sicurezza nei luoghi di lavoro. / Verifies health and safety in workplaces. / 核实工作场所的健康与安全。</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;"><strong>INL</strong></td>
+              <td style="padding: 8px;"><strong>National Labour Inspectorate</strong></td>
+              <td style="padding: 8px;"><strong>国家劳动监察局</strong></td>
+              <td style="padding: 8px;">Vigila sulla regolarità dei rapporti di lavoro e sulla sicurezza. / Monitors the regularity of employment relationships and safety. / 监督雇佣关系和安全的合规性。</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;"><strong>Vigili del Fuoco</strong></td>
+              <td style="padding: 8px;"><strong>Fire Brigade</strong></td>
+              <td style="padding: 8px;"><strong>消防队</strong></td>
+              <td style="padding: 8px;">Controlla la prevenzione incendi e le misure di emergenza. / Checks fire prevention and emergency measures. / 检查消防和应急措施。</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px;"><strong>INAIL</strong></td>
+              <td style="padding: 8px;"><strong>National Institute for Insurance against Accidents at Work</strong></td>
+              <td style="padding: 8px;"><strong>国家工伤事故保险局</strong></td>
+              <td style="padding: 8px;">Assicura i lavoratori contro infortuni e malattie professionali. / Insures workers against accidents and occupational diseases. / 为工人投保工伤事故和职业病。</td>
+            </tr>
+          </tbody>
+        </table>
+        ]]>
+      </content>
+    </chapter>
+  </chapters>
+</activity>

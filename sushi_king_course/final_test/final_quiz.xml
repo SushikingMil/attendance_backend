@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+  <type>quiz</type>
+  <name>
+    <![CDATA[
+    <span lang="it">Test Finale di Valutazione</span><br>
+    <span lang="en">Final Assessment Test</span><br>
+    <span lang="zh">最终评估测试</span>
+    ]]>
+  </name>
+  <intro>
+    <![CDATA[
+    <p><span lang="it">Questo test serve a verificare le conoscenze acquisite durante il corso.</span></p>
+    <p><span lang="en">This test is to verify the knowledge acquired during the course.</span></p>
+    <p><span lang="zh">本测试旨在检验课程期间所学知识。</span></p>
+    <ul>
+      <li><span lang="it"><strong>Domande:</strong> 20 a risposta multipla, estratte casualmente da tutti i moduli.</span><br>
+          <span lang="en"><strong>Questions:</strong> 20 multiple-choice questions, randomly drawn from all modules.</span><br>
+          <span lang="zh"><strong>问题:</strong> 20道选择题，从所有模块中随机抽取。</span></li>
+      <li><span lang="it"><strong>Punteggio per Superamento:</strong> 70% (devi rispondere correttamente ad almeno 14 domande).</span><br>
+          <span lang="en"><strong>Passing Score:</strong> 70% (you must answer at least 14 questions correctly).</span><br>
+          <span lang="zh"><strong>及格分数:</strong> 70%（您必须正确回答至少14个问题）。</span></li>
+      <li><span lang="it"><strong>Tentativi:</strong> Illimitati.</span><br>
+          <span lang="en"><strong>Attempts:</strong> Unlimited.</span><br>
+          <span lang="zh"><strong>尝试次数:</strong> 无限。</span></li>
+    </ul>
+    ]]>
+  </intro>
+  <quiz>
+    <shufflequestions>1</shufflequestions>
+    <shuffleanswers>1</shuffleanswers>
+    <grademethod>1</grademethod> <!-- Highest grade -->
+    <grade>10</grade>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <review>
+      <attempt>1</attempt>
+      <immediately>1</immediately>
+      <open>1</open>
+      <closed>1</closed>
+    </review>
+    <questionsperpage>1</questionsperpage>
+    <timelimit>0</timelimit>
+    <completionpass>1</completionpass>
+    <grade_to_pass>7.0</grade_to_pass>
+    <questions>
+      <!-- This section tells Moodle to pick random questions from categories -->
+      <question type="random">
+        <category>$course$/top/Modulo 1 - Generale</category>
+        <count>5</count>
+      </question>
+      <question type="random">
+        <category>$course$/top/Modulo 2 - Specifico</category>
+        <count>12</count>
+      </question>
+      <question type="random">
+        <category>$course$/top/Modulo 3 - Addestramento</category>
+        <count>3</count>
+      </question>
+    </questions>
+  </quiz>
+</activity>

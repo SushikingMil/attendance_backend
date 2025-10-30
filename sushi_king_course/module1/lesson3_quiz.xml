@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>Domanda Dovere 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Qual è uno dei principali DOVERI del lavoratore?</span></p>
+        <p><span lang="en">What is one of the main DUTIES of a worker?</span></p>
+        <p><span lang="zh">工人的主要义务之一是什么？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Utilizzare correttamente le attrezzature di lavoro.</span><br>
+        <span lang="en">To use work equipment correctly.</span><br>
+        <span lang="zh">正确使用工作设备。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Ricevere formazione sui rischi.</span><br>
+        <span lang="en">To receive training on risks.</span><br>
+        <span lang="zh">接受风险培训。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Sottoporsi a visite mediche.</span><br>
+        <span lang="en">To undergo medical examinations.</span><br>
+        <span lang="zh">接受体检。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Domanda Diritto 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Ricevere i Dispositivi di Protezione Individuale (DPI) è un...</span></p>
+        <p><span lang="en">Receiving Personal Protective Equipment (PPE) is a...</span></p>
+        <p><span lang="zh">接收个人防护装备（PPE）是一项...</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Diritto del lavoratore.</span><br>
+        <span lang="en">Worker's right.</span><br>
+        <span lang="zh">工人的权利。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Dovere del lavoratore.</span><br>
+        <span lang="en">Worker's duty.</span><br>
+        <span lang="zh">工人的义务。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Una scelta facoltativa.</span><br>
+        <span lang="en">An optional choice.</span><br>
+        <span lang="zh">一个可选项。</span>
+      ]]></text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Domanda Responsabilità 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p><span lang="it">Se vedi una situazione di pericolo, cosa devi fare?</span></p>
+        <p><span lang="en">If you see a dangerous situation, what should you do?</span></p>
+        <p><span lang="zh">如果你看到危险情况，你应该怎么做？</span></p>
+      ]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text><![CDATA[
+        <span lang="it">Segnalarla immediatamente al tuo superiore o al RLS/Datore di Lavoro.</span><br>
+        <span lang="en">Report it immediately to your superior or the WSR/Employer.</span><br>
+        <span lang="zh">立即向您的上级或工人安全代表/雇主报告。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Ignorarla, perché non è un tuo problema.</span><br>
+        <span lang="en">Ignore it, because it is not your problem.</span><br>
+        <span lang="zh">忽略它，因为那不是你的问题。</span>
+      ]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[
+        <span lang="it">Provare a risolverla da solo senza avvisare nessuno.</span><br>
+        <span lang="en">Try to solve it by yourself without notifying anyone.</span><br>
+        <span lang="zh">在不通知任何人的情况下自己尝试解决。</span>
+      ]]></text>
+    </answer>
+  </question>
+</quiz>

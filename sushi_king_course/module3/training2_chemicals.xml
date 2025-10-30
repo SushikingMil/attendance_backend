@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+  <type>page</type>
+  <name>
+    <![CDATA[
+    <span lang="it">2. Addestramento Uso Prodotti Chimici</span><br>
+    <span lang="en">2. Chemical Product Use Training</span><br>
+    <span lang="zh">2. 化学产品使用培训</span>
+    ]]>
+  </name>
+  <content>
+    <![CDATA[
+    <p><strong>IT:</strong> Vediamo la sequenza corretta di azioni per usare un prodotto chimico in totale sicurezza.</p>
+    <p><strong>EN:</strong> Let's see the correct sequence of actions to use a chemical product in complete safety.</p>
+    <p><strong>ZH:</strong> 让我们看看完全安全地使用化学产品的正确操作顺序。</p>
+    <hr>
+
+    <h4><span lang="it">Procedura Corretta</span> / <span lang="en">Correct Procedure</span> / <span lang="zh">正确程序</span></h4>
+    <p><em>[Placeholder per video dimostrativo che mostra i passaggi seguenti]</em></p>
+    <ol>
+      <li><span lang="it"><strong>Leggi l'Etichetta e la SDS:</strong> Prima di usare QUALSIASI prodotto, leggi sempre l'etichetta per capire i pericoli (pittogrammi) e le istruzioni. Se hai dubbi, consulta la SDS.</span><br>
+          <span lang="en"><strong>Read the Label and SDS:</strong> Before using ANY product, always read the label to understand the hazards (pictograms) and instructions. If in doubt, consult the SDS.</span><br>
+          <span lang="zh"><strong>阅读标签和SDS:</strong> 在使用任何产品之前，请务必阅读标签以了解危险（象形图）和说明。如有疑问，请查阅SDS。</span></li>
+
+      <li><span lang="it"><strong>Indossa i DPI Corretti:</strong> Indossa sempre guanti e, se c'è rischio di schizzi, occhiali di protezione.</span><br>
+          <span lang="en"><strong>Wear the Correct PPE:</strong> Always wear gloves and, if there is a risk of splashing, safety goggles.</span><br>
+          <span lang="zh"><strong>佩戴正确的个人防护装备:</strong> 始终佩戴手套，如果有飞溅风险，请佩戴安全护目镜。</span></li>
+
+      <li><span lang="it"><strong>Dosa Correttamente:</strong> Segui le istruzioni per la diluizione. Non usare mai più prodotto del necessario. Prepara la soluzione in un'area ben ventilata.</span><br>
+          <span lang="en"><strong>Dose Correctly:</strong> Follow the instructions for dilution. Never use more product than necessary. Prepare the solution in a well-ventilated area.</span><br>
+          <span lang="zh"><strong>正确剂量:</strong> 遵循稀释说明。切勿使用超过必要量的产品。在通风良好的地方准备溶液。</span></li>
+
+      <li><span lang="it"><strong>Stoccaggio Sicuro:</strong> Dopo l'uso, chiudi bene il contenitore e riponilo nell'armadietto designato, lontano da cibi e bevande.</span><br>
+          <span lang="en"><strong>Safe Storage:</strong> After use, close the container tightly and store it in the designated cabinet, away from food and drinks.</span><br>
+          <span lang="zh"><strong>安全储存:</strong> 使用后，请盖紧容器并将其存放在指定的柜子中，远离食品和饮料。</span></li>
+
+      <li><span lang="it"><strong>Smaltimento:</strong> Segui le procedure aziendali per smaltire i contenitori vuoti. Non riutilizzarli per altri scopi.</span><br>
+          <span lang="en"><strong>Disposal:</strong> Follow company procedures for disposing of empty containers. Do not reuse them for other purposes.</span><br>
+          <span lang="zh"><strong>处置:</strong> 遵循公司程序处置空容器。请勿将其用于其他目的。</span></li>
+    </ol>
+    ]]>
+  </content>
+</activity>
